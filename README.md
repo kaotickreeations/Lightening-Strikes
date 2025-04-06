@@ -41,3 +41,5 @@ Environmental Effects: Lightning strikes can cause wildfires, affecting ecosyste
 Economic Costs: Repair and maintenance costs due to lightning damage can be substantial. Preventive measures can lower long-term expenses.
 
 Agriculture and Wildlife: Lightning can damage crops and harm wildlife. Protective measures can safeguard agricultural productivity and wildlife habitats. By visualizing and analyzing the data on lightning strikes from 2009 to 2018, the dashboard provides valuable insights that can inform public safety measures, infrastructure planning, environmental conservation, and more. It is a powerful tool for researchers, policymakers, and the general public to understand and respond to the increasing trend of lightning strikes across the US.
+
+https://public.tableau.com/views/noaa_17378549039200/Interactivedashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
